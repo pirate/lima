@@ -1,0 +1,23 @@
+pkg/limayaml/validate.go
+  82071d4ace3ee4b5 60,424,427
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.2",
+  "base_commit_sha": "1eea57caa099b0123b6f74e0e9f1ef0cffae8dac",
+  "prompts": {
+    "82071d4ace3ee4b5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dba50-e41e-7321-a017-6e7788fb78ea",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Nick Sweeting",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 7,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    }
+  }
+}
