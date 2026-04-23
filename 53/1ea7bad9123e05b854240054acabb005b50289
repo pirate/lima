@@ -1,0 +1,23 @@
+hack/bats/extras/vz-block-device.bats
+  c7f55cd2839f88b3 6-12,119-120,124-125,157,178,241,257,269,274
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.2",
+  "base_commit_sha": "531ea7bad9123e05b854240054acabb005b50289",
+  "prompts": {
+    "c7f55cd2839f88b3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019db84b-23a2-7a50-a3e2-f37e3ed306af",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Nick Sweeting",
+      "messages": [],
+      "total_additions": 17,
+      "total_deletions": 0,
+      "accepted_lines": 32935,
+      "overriden_lines": 0
+    }
+  }
+}
