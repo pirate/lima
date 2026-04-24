@@ -1,0 +1,85 @@
+cmd/limactl/main.go
+  d32646c40c7ae3ac 35,139-141,217
+pkg/blockdevice/block_device_darwin_test.go
+  d32646c40c7ae3ac 1-83
+pkg/driver/wsl2/wsl_driver_windows.go
+  d32646c40c7ae3ac 28,104-105
+pkg/limayaml/validate.go
+  d32646c40c7ae3ac 60,424-434
+cmd/limactl/sudo_open_block_device_command_others.go
+  d32646c40c7ae3ac 1-14
+pkg/driver/vz/vm_darwin.go
+  d32646c40c7ae3ac 55-58,83-84,615-619,955
+cmd/limactl/sudoers_darwin.go
+  d32646c40c7ae3ac 11,15,17,41-45,49-50,68,74-100
+pkg/driver/qemu/qemu_driver.go
+  d32646c40c7ae3ac 94-96
+pkg/driver/vz/block_device_darwin_test.go
+  d32646c40c7ae3ac 1-19
+pkg/networks/sudoers_test.go
+  d32646c40c7ae3ac 1-58
+cmd/limactl/sudoers.go
+  d32646c40c7ae3ac 30-31
+pkg/limatype/lima_yaml.go
+  d32646c40c7ae3ac 30
+cmd/limactl/sudo_open_block_device_command_darwin.go
+  d32646c40c7ae3ac 1-28
+hack/bats/extras/vz-block-device.bats
+  d32646c40c7ae3ac 1-276
+cmd/limactl/editflags/editflags_test.go
+  d32646c40c7ae3ac 229-233
+pkg/sudoers/sudoers_test.go
+  d32646c40c7ae3ac 1-41
+pkg/sudoers/sudoers.go
+  d32646c40c7ae3ac 1-77
+cmd/limactl/editflags/editflags.go
+  d32646c40c7ae3ac 70,336-350
+hack/bats/tests/shell.bats
+  d32646c40c7ae3ac 8-11,42,45
+hack/test-templates.sh
+  d32646c40c7ae3ac 613,615
+pkg/blockdevice/block_device_darwin.go
+  d32646c40c7ae3ac 1-213
+pkg/networks/sudoers.go
+  d32646c40c7ae3ac 17-18,20,22,25-26,38,43,48,72-73,104,108-111
+pkg/driver/krunkit/krunkit_driver_darwin_arm64.go
+  d32646c40c7ae3ac 180-182
+.github/workflows/test.yml
+  d32646c40c7ae3ac 594,613-614
+pkg/driver/qemu/qemu_test.go
+  d32646c40c7ae3ac 10-11,94-99
+pkg/networks/reconcile/reconcile.go
+  d32646c40c7ae3ac 24,73,127
+pkg/driver/vz/block_device_darwin.go
+  d32646c40c7ae3ac 1-96
+pkg/limayaml/marshal_test.go
+  d32646c40c7ae3ac 125-136
+pkg/driver/vz/vz_driver_darwin.go
+  d32646c40c7ae3ac 47,349-350
+pkg/limayaml/validate_test.go
+  d32646c40c7ae3ac 237-263
+templates/default.yaml
+  d32646c40c7ae3ac 131-137
+website/content/en/docs/config/disk.md
+  d32646c40c7ae3ac 5,25-78
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "73ea5db593a31af528885c56b4c2cfb93112b057",
+  "prompts": {
+    "d32646c40c7ae3ac": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dbe75-c48b-7901-adab-8706028488e4",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Nick Sweeting",
+      "messages": [],
+      "total_additions": 1490,
+      "total_deletions": 181,
+      "accepted_lines": 1336,
+      "overriden_lines": 0
+    }
+  }
+}
