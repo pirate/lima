@@ -1,0 +1,127 @@
+cmd/limactl/sudo_open_block_device_command_darwin.go
+  82071d4ace3ee4b5 1-28
+cmd/limactl/sudoers_darwin.go
+  82071d4ace3ee4b5 11,15,17,41-45,49-50,68,74-100
+templates/_images/centos-stream-10.yaml
+  82071d4ace3ee4b5 4,6-7,9-10,12-13,15
+templates/_images/ubuntu-25.10.yaml
+  82071d4ace3ee4b5 4,6-7,9-10,12-13,15-16,18-19,21
+pkg/networks/reconcile/reconcile.go
+  82071d4ace3ee4b5 24,73,127
+.github/workflows/test.yml
+  82071d4ace3ee4b5 594,613-614
+cmd/limactl/main.go
+  82071d4ace3ee4b5 35,139-141,217
+pkg/driver/qemu/qemu_test.go
+  82071d4ace3ee4b5 10-11,94-99
+templates/_images/debian-12.yaml
+  82071d4ace3ee4b5 4,6-7,9
+cmd/limactl/sudo_open_block_device_command_others.go
+  82071d4ace3ee4b5 1-14
+cmd/limactl/editflags/editflags_test.go
+  82071d4ace3ee4b5 229-233
+templates/_images/almalinux-kitten-10.yaml
+  82071d4ace3ee4b5 2,4-5,7
+templates/_images/alpine.yaml
+  82071d4ace3ee4b5 2,4-5,7
+templates/_images/macos-26.yaml
+  82071d4ace3ee4b5 5,7
+cmd/limactl/editflags/editflags.go
+  82071d4ace3ee4b5 70,336-350
+cmd/limactl/sudoers.go
+  82071d4ace3ee4b5 30-31
+pkg/driver/qemu/qemu_driver.go
+  82071d4ace3ee4b5 94-96
+pkg/limayaml/validate.go
+  82071d4ace3ee4b5 60,424-434
+pkg/driver/vz/block_device_darwin_test.go
+  82071d4ace3ee4b5 1-19
+pkg/driver/vz/vm_darwin.go
+  82071d4ace3ee4b5 55-58,83-84,615-619,955
+hack/bats/extras/vz-block-device.bats
+  82071d4ace3ee4b5 1-276
+website/content/en/docs/config/disk.md
+  82071d4ace3ee4b5 5,25-78
+templates/_images/almalinux-9.yaml
+  82071d4ace3ee4b5 2,4-5,7
+templates/_images/archlinux.yaml
+  82071d4ace3ee4b5 4,6
+templates/_images/debian-13.yaml
+  82071d4ace3ee4b5 4,6-7,9
+pkg/driver/wsl2/wsl_driver_windows.go
+  82071d4ace3ee4b5 28,104-105
+pkg/blockdevice/block_device_darwin.go
+  c7f55cd2839f88b3 1-73,78-213
+  82071d4ace3ee4b5 74-77
+pkg/driver/vz/block_device_darwin.go
+  82071d4ace3ee4b5 1-96
+pkg/sudoers/sudoers_test.go
+  82071d4ace3ee4b5 1-41
+templates/default.yaml
+  82071d4ace3ee4b5 131-137
+templates/_images/debian-11.yaml
+  82071d4ace3ee4b5 5,7-8,10
+templates/_images/centos-stream-9.yaml
+  82071d4ace3ee4b5 4,6-7,9-10,12-13,15
+pkg/sudoers/sudoers.go
+  82071d4ace3ee4b5 1-77
+pkg/blockdevice/block_device_darwin_test.go
+  82071d4ace3ee4b5 1-83
+pkg/limatype/lima_yaml.go
+  82071d4ace3ee4b5 30
+pkg/networks/sudoers.go
+  82071d4ace3ee4b5 17-18,20,22,25-26,38,43,48,72-73,104,108-111
+templates/_images/almalinux-8.yaml
+  82071d4ace3ee4b5 4-9
+templates/_images/almalinux-10.yaml
+  82071d4ace3ee4b5 2,4-5,7
+pkg/driver/krunkit/krunkit_driver_darwin_arm64.go
+  82071d4ace3ee4b5 180-182
+pkg/networks/sudoers_test.go
+  82071d4ace3ee4b5 1-58
+pkg/driver/vz/vz_driver_darwin.go
+  82071d4ace3ee4b5 47,349-350
+website/content/en/docs/blogs/_index.md
+  82071d4ace3ee4b5 1-88
+pkg/limayaml/marshal_test.go
+  82071d4ace3ee4b5 125-136
+pkg/limayaml/validate_test.go
+  82071d4ace3ee4b5 237-263
+hack/test-templates.sh
+  82071d4ace3ee4b5 613,615
+hack/bats/tests/shell.bats
+  82071d4ace3ee4b5 8-11,42,45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "5301add64191cf05f14cdc2bfaf17448f2f79101",
+  "prompts": {
+    "82071d4ace3ee4b5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dba50-e41e-7321-a017-6e7788fb78ea",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Nick Sweeting",
+      "messages": [],
+      "total_additions": 1104,
+      "total_deletions": 115,
+      "accepted_lines": 1108,
+      "overriden_lines": 0
+    },
+    "c7f55cd2839f88b3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019db84b-23a2-7a50-a3e2-f37e3ed306af",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Nick Sweeting",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 33127,
+      "overriden_lines": 0
+    }
+  }
+}
