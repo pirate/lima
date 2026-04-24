@@ -1,0 +1,25 @@
+website/content/en/docs/config/disk.md
+  d32646c40c7ae3ac 28-29,38,45
+README.md
+  d32646c40c7ae3ac 58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "19e31538d7ca39739ab1679972d706d93e5a99fb",
+  "prompts": {
+    "d32646c40c7ae3ac": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019dbe75-c48b-7901-adab-8706028488e4",
+        "model": "gpt-5.4"
+      },
+      "human_author": "Nick Sweeting",
+      "messages": [],
+      "total_additions": 5,
+      "total_deletions": 5,
+      "accepted_lines": 5,
+      "overriden_lines": 0
+    }
+  }
+}
