@@ -1,0 +1,50 @@
+.github/workflows/test.yml
+  s_d30c4f036d148a::t_098d2fff2f0af1 594-605
+  s_d30c4f036d148a::t_1557debab65e08 607-611
+website/content/en/docs/config/disk.md
+  s_d30c4f036d148a::t_cd4f3338ebe72c 142
+  s_d30c4f036d148a::t_68b520e2ea8261 127-138
+pkg/limayaml/validate_test.go
+  s_d30c4f036d148a::t_e399a7074a50f9 264-280
+pkg/blockdevice/block_device_darwin_test.go
+  s_d30c4f036d148a::t_d7f98b980b72e6 10
+  s_d30c4f036d148a::t_04857ab68f9e4d 11-112,138-149,151-152,154-267
+  s_d30c4f036d148a::t_72b9b18a96f5f6 150,153
+  s_d30c4f036d148a::t_b4dfce817743d3 115
+pkg/networks/sudoers_test.go
+  s_d30c4f036d148a::t_ee6a2346a8c30d 31
+cmd/limactl/sudoers.go
+  s_d30c4f036d148a::t_a6ecf2a3f595de 31-32,43-44
+pkg/blockdevice/block_device_darwin.go
+  s_d30c4f036d148a::t_2a75bc0a3dbb51 15-28,37-260
+  s_d30c4f036d148a::t_72b9b18a96f5f6 36
+pkg/limayaml/validate.go
+  s_d30c4f036d148a::t_9918f849f6b65b 35,62,426-440
+  s_d30c4f036d148a::t_72b9b18a96f5f6 34
+pkg/sudoers/sudoers_test.go
+  s_d30c4f036d148a::t_86eb1c4c7135d1 36-37
+cmd/limactl/sudoers_darwin_test.go
+  s_d30c4f036d148a::t_304cdfaf4a209b 1-11,14-29
+  s_d30c4f036d148a::t_5b026e6e8cc524 12-13
+templates/default.yaml
+  s_d30c4f036d148a::t_967fd825ce82e5 133-134
+cmd/limactl/sudoers_darwin.go
+  s_d30c4f036d148a::t_098d2fff2f0af1 95-100
+  s_d30c4f036d148a::t_3b87f377ddb2ca 35-38,40,50,54,58-73,87,93-94,112
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "5319b9265bf43888b2788e457517f642a6122162",
+  "prompts": {},
+  "sessions": {
+    "s_d30c4f036d148a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e1346-1816-74a0-af59-6c3ba13f9f30",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Nick Sweeting <git@sweeting.me>"
+    }
+  }
+}
