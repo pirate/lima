@@ -1,0 +1,60 @@
+pkg/blockdevice/block_device_darwin.go
+  s_d30c4f036d148a::t_8fc3c24204bdc5 142-143,189-191,200-215,227-228,423
+  s_d30c4f036d148a::t_9d82586f2e45bd 93,95-96
+  s_d30c4f036d148a::t_ca2b82162ac1a6 11-12,23,39,41-45,60-68,94,97,111,154-159,218-225,240-289,370-411,420-422,424-437,458-515
+  s_d30c4f036d148a::t_5d9c332682d17e 293-309,441-452
+  s_d30c4f036d148a::t_2a75bc0a3dbb51 17-22,24-31,40,46-59,69-92,98-110,112-141,144-153,161-188,192-199,230-239,290,310-369,412
+pkg/limayaml/validate_test.go
+  s_d30c4f036d148a::t_e399a7074a50f9 264-280
+cmd/limactl/sudoers_darwin.go
+  s_d30c4f036d148a::t_098d2fff2f0af1 95-100
+  s_d30c4f036d148a::t_3b87f377ddb2ca 35-38,40,50,54,58-73,87,93-94,112
+website/content/en/docs/config/disk.md
+  s_d30c4f036d148a::t_68b520e2ea8261 127-138
+  s_d30c4f036d148a::t_cd4f3338ebe72c 142
+templates/default.yaml
+  s_d30c4f036d148a::t_967fd825ce82e5 133-134
+pkg/sudoers/sudoers_test.go
+  s_d30c4f036d148a::t_86eb1c4c7135d1 36-37
+pkg/blockdevice/block_device_darwin_test.go
+  s_d30c4f036d148a::t_3fb9867b4e3bd1 315
+  s_d30c4f036d148a::t_7cbb3ffd7a4b9b 18-19
+  s_d30c4f036d148a::t_228e7ab0168b92 9-11,51,64,73,82,90,99,108,117,126,135-161,195-204,252-260,276-278,280-283,285-291,293-295,304-305,332,334-353
+  s_d30c4f036d148a::t_9d15efe674177c 382
+  s_d30c4f036d148a::t_04857ab68f9e4d 13-17,20-50,52-63,65-72,74-81,83-89,91-98,100-107,109-116,118-124,188-194,207-209,211-212,214-251,389-464
+  s_d30c4f036d148a::t_b4dfce817743d3 128
+  s_d30c4f036d148a::t_d7f98b980b72e6 12
+  s_d30c4f036d148a::t_72b9b18a96f5f6 210,213
+  s_d30c4f036d148a::t_4b8dfa07dd8d76 279,284,292,307,333,378-381,383-388
+  s_d30c4f036d148a::t_46874222ae74ec 165-182,261-275,296-303,354-377
+  s_d30c4f036d148a::t_c7fd1126fe7bb2 306,308-314,316-331
+cmd/limactl/sudoers.go
+  s_d30c4f036d148a::t_a6ecf2a3f595de 31-32,43-44
+.github/workflows/test.yml
+  s_d30c4f036d148a::t_1557debab65e08 607-611
+  s_d30c4f036d148a::t_098d2fff2f0af1 594-605
+pkg/networks/sudoers_test.go
+  s_d30c4f036d148a::t_ee6a2346a8c30d 31
+cmd/limactl/sudoers_darwin_test.go
+  s_d30c4f036d148a::t_304cdfaf4a209b 1-11,14-29
+  s_d30c4f036d148a::t_5b026e6e8cc524 12-13
+pkg/limayaml/validate.go
+  s_d30c4f036d148a::t_72b9b18a96f5f6 34
+  s_d30c4f036d148a::t_9918f849f6b65b 35,62,426-440
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "31cfe0f1915c1ff00e4c883cfbfb9c43e24462ea",
+  "prompts": {},
+  "sessions": {
+    "s_d30c4f036d148a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e1346-1816-74a0-af59-6c3ba13f9f30",
+        "model": "gpt-5.5"
+      },
+      "human_author": null
+    }
+  }
+}
