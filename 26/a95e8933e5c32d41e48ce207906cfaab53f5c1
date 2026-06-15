@@ -1,0 +1,58 @@
+.github/workflows/test.yml
+  s_d30c4f036d148a::t_1557debab65e08 607-611
+  s_d30c4f036d148a::t_098d2fff2f0af1 594-605
+templates/default.yaml
+  s_d30c4f036d148a::t_967fd825ce82e5 133-134
+pkg/limayaml/validate_test.go
+  s_d30c4f036d148a::t_e399a7074a50f9 264-280
+pkg/blockdevice/block_device_darwin_test.go
+  s_d30c4f036d148a::t_b4dfce817743d3 126
+  s_d30c4f036d148a::t_04857ab68f9e4d 13-48,50-61,63-70,72-79,81-87,89-96,98-105,107-114,116-122,168-174,187-189,191-192,194-231,322-397
+  s_d30c4f036d148a::t_4b8dfa07dd8d76 244,249,257,264,290,311-314,316-321
+  s_d30c4f036d148a::t_3fb9867b4e3bd1 272
+  s_d30c4f036d148a::t_228e7ab0168b92 9-11,49,62,71,80,88,97,106,115,124,133-162,175-184,232-243,245-248,250-256,258-262,289,291-310
+  s_d30c4f036d148a::t_9d15efe674177c 315
+  s_d30c4f036d148a::t_d7f98b980b72e6 12
+  s_d30c4f036d148a::t_72b9b18a96f5f6 190,193
+  s_d30c4f036d148a::t_c7fd1126fe7bb2 263,265-271,273-288
+pkg/limayaml/validate.go
+  s_d30c4f036d148a::t_9918f849f6b65b 35,62,426-440
+  s_d30c4f036d148a::t_72b9b18a96f5f6 34
+cmd/limactl/sudoers_darwin.go
+  s_d30c4f036d148a::t_098d2fff2f0af1 95-100
+  s_d30c4f036d148a::t_3b87f377ddb2ca 35-38,40,50,54,58-73,87,93-94,112
+pkg/sudoers/sudoers_test.go
+  s_d30c4f036d148a::t_86eb1c4c7135d1 36-37
+cmd/limactl/sudoers_darwin_test.go
+  s_d30c4f036d148a::t_304cdfaf4a209b 1-11,14-29
+  s_d30c4f036d148a::t_5b026e6e8cc524 12-13
+pkg/blockdevice/block_device_darwin.go
+  s_d30c4f036d148a::t_ca2b82162ac1a6 11-12,23,39,41-45,60-68,94,97,111,154-159,218-225,240-289,370-411,420-422,424-437,458-515
+  s_d30c4f036d148a::t_2a75bc0a3dbb51 17-22,24-31,40,46-59,69-92,98-110,112-141,144-153,161-188,192-199,230-239,290,310-369,412
+  s_d30c4f036d148a::t_9d82586f2e45bd 93,95-96
+  s_d30c4f036d148a::t_5d9c332682d17e 293-309,441-452
+  s_d30c4f036d148a::t_8fc3c24204bdc5 142-143,189-191,200-215,227-228,423
+cmd/limactl/sudoers.go
+  s_d30c4f036d148a::t_a6ecf2a3f595de 31-32,43-44
+pkg/networks/sudoers_test.go
+  s_d30c4f036d148a::t_ee6a2346a8c30d 31
+website/content/en/docs/config/disk.md
+  s_d30c4f036d148a::t_cd4f3338ebe72c 142
+  s_d30c4f036d148a::t_68b520e2ea8261 127-138
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "26a95e8933e5c32d41e48ce207906cfaab53f5c1",
+  "prompts": {},
+  "sessions": {
+    "s_d30c4f036d148a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e1346-1816-74a0-af59-6c3ba13f9f30",
+        "model": "gpt-5.5"
+      },
+      "human_author": null
+    }
+  }
+}
