@@ -1,0 +1,81 @@
+pkg/blockdevice/block_device_darwin.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 1-213
+cmd/limactl/sudo_open_block_device_command_others.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 1-14
+hack/test-templates.sh
+  s_d30c4f036d148a::t_aaa0cbc346fac4 630,632
+pkg/driver/vz/vm_darwin.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 55-58,83-84,615-619,984
+pkg/limatype/lima_yaml.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 30
+pkg/sudoers/sudoers_test.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 1-41
+pkg/driver/vz/block_device_darwin.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 1-96
+cmd/limactl/sudo_open_block_device_command_darwin.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 1-28
+pkg/networks/sudoers.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 17-18,20,22,25-26,38,43,48,73-74,105,109-112
+pkg/driver/qemu/qemu_driver.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 108-110
+pkg/limayaml/marshal_test.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 124-135
+pkg/sudoers/sudoers.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 1-77
+hack/bats/tests/shell.bats
+  s_d30c4f036d148a::t_aaa0cbc346fac4 8-11,43,46
+website/content/en/docs/config/disk.md
+  s_d30c4f036d148a::t_aaa0cbc346fac4 89-142
+pkg/driver/krunkit/krunkit_driver_darwin_arm64.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 238-240
+pkg/networks/reconcile/reconcile.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 25,83,139
+.github/workflows/test.yml
+  s_d30c4f036d148a::t_aaa0cbc346fac4 599,623-624
+pkg/networks/sudoers_test.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 1-58
+pkg/blockdevice/block_device_darwin_test.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 1-83
+pkg/driver/qemu/qemu_test.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 154-160
+pkg/limayaml/validate_test.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 305-331
+templates/default.yaml
+  s_d30c4f036d148a::t_aaa0cbc346fac4 136-142
+cmd/limactl/main.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 36,148-150,229
+hack/bats/extras/vz-block-device.bats
+  s_d30c4f036d148a::t_aaa0cbc346fac4 1-276
+cmd/limactl/editflags/editflags.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 70,365-379
+cmd/limactl/editflags/editflags_test.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 288-292
+cmd/limactl/sudoers.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 30-31
+pkg/driver/vz/block_device_darwin_test.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 1-19
+pkg/driver/vz/vz_driver_darwin.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 46,360-361
+pkg/limayaml/validate.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 66,500-514
+cmd/limactl/sudoers_darwin.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 11,15,17,41-45,49-50,68,74-100
+pkg/driver/wsl2/wsl_driver_windows.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 28,106-107
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e727745304173bcf1d2552a3357c04dd25fb829c",
+  "prompts": {},
+  "sessions": {
+    "s_d30c4f036d148a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e1346-1816-74a0-af59-6c3ba13f9f30",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Nick Sweeting <git@sweeting.me>"
+    }
+  }
+}
