@@ -113,6 +113,7 @@ pkg/networks/sudoers_test.go
   s_a90d1204e0ed5e::t_8aac90a96aa4e0 59-78
 pkg/driver/qemu/qemu_test.go
   s_d30c4f036d148a::t_aaa0cbc346fac4 156,223-228
+  s_d30c4f036d148a::t_d9da68f72224ef 222
 ---
 {
   "schema_version": "authorship/3.0.0",
