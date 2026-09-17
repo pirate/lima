@@ -1,0 +1,140 @@
+.github/workflows/test.yml
+  s_d30c4f036d148a::t_aaa0cbc346fac4 627-629
+  s_a90d1204e0ed5e::t_d0895a46cf0301 607-611
+pkg/driver/qemu/qemu_test.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 223-228
+  s_d30c4f036d148a::t_d9da68f72224ef 222
+pkg/driver/vz/vz_driver_darwin.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 47,370-371
+  s_a90d1204e0ed5e::t_1a8706b38253bf 267-275,372
+cmd/limactl/editflags/editflags.go
+  s_d30c4f036d148a::t_9ad8fb9f1efef5 380-383
+  s_d30c4f036d148a::t_aaa0cbc346fac4 70,365-378
+  s_a90d1204e0ed5e::t_36b01720b1f4a3 379
+pkg/driver/vz/vm_darwin.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 650-653
+  s_a90d1204e0ed5e::t_7987dd0c4fd581 55-82,90-91,93,99,110,240,254,258,441,452,466,505,529,541,574,610-617,630,649,990,1018-1020
+pkg/driver/qemu/qemu_driver.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 108-110
+pkg/limayaml/validate_test.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 305-332
+pkg/networks/sudoers_test.go
+  s_d30c4f036d148a::t_7fc397fc856217 31
+  s_d30c4f036d148a::t_aaa0cbc346fac4 1-30,32-58
+  s_a90d1204e0ed5e::t_8aac90a96aa4e0 59-78
+Makefile
+  s_d30c4f036d148a::t_7fc397fc856217 145,193-194,215,345-357,635-636
+pkg/driver/krunkit/krunkit_driver_darwin_arm64.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 238-240
+pkg/driver/vz/block_device_darwin.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 1-28,30-34,36-37,39-78,80-84,88-123
+  s_a90d1204e0ed5e::t_a02ea90215120d 29,38,79,85-87
+  s_d30c4f036d148a::t_9031a6e49c1069 35
+pkg/blockdevice/block_device_darwin.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 1-10,13-16,18-19,21,24-25,28-30,32,34-36,40,50-54,56-59,61-63,75-83,86-93,99-125,127-128,132-133,140-142,144-145,149,152,160,179-189,196-198,216-222,228,418,548,559,561-566,571-573,575-577,590-599,601-606,611-617,641,647,654,661-669,674,676-677,684,688-690,707,717,726
+  s_d30c4f036d148a::t_0ac7893c40303c 223,238-241
+  s_d30c4f036d148a::t_3d5b766e6d86de 439,470-484
+  s_d30c4f036d148a::t_7fc397fc856217 37-39,224,227
+  s_a90d1204e0ed5e::t_06a57354bea654 11-12,17,20,22-23,26,31,33,41-49,55,60,64-74,84-85,94-98,126,129-131,136-139,143,146-148,150-151,153-159,161-178,190-195,199-215,225-226,236-237,242-417,419-438,442-467,469,520-547,549-558,560,567-570,574,578-589,600,607-610,618-640,642-646,648-653,655-660,670-673,675,678-683,685-687,691-706,708-716,718-725
+  s_d30c4f036d148a::t_c6f471ca5b15fd 27,468,488-519
+  s_d30c4f036d148a::t_e3215cf954cec1 440-441,485-487
+  s_d30c4f036d148a::t_34015a95d270bb 134-135
+pkg/driver/vz/network_darwin.go
+  s_a90d1204e0ed5e::t_86fe43dcfd36bb 24-26,28-31,41,52-54,56-59,67
+pkg/limayaml/defaults_test.go
+  s_a90d1204e0ed5e::t_e770fd5c54df6c 778-787
+templates/default.yaml
+  s_d30c4f036d148a::t_aaa0cbc346fac4 136,139-142
+  s_a90d1204e0ed5e::t_2db029584b82df 137-138
+pkg/blockdevice/block_device_darwin_test.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 1-8,12,14,18,20,22,25-26,128-133,135-146,148-155,157-160,188-190,201,210,212-217,219-226,228-230,266-270,378-381,574-577
+  s_d30c4f036d148a::t_c6f471ca5b15fd 13,578,580-581,583-584,588-591
+  s_d30c4f036d148a::t_15fa46a91974a5 587
+  s_d30c4f036d148a::t_0ac7893c40303c 44-110
+  s_a90d1204e0ed5e::t_262c228fefdcc6 9-11,16-17,19,21,23-24,27,30-35,38-39,42,111-127,134,147,156,161-187,191-200,202-209,211,218,227,231-265,271-377,382-573,594-620
+  s_d30c4f036d148a::t_7fc397fc856217 28-29,36-37,40-41
+  s_d30c4f036d148a::t_47705d939dabae 579,582,585-586,592-593
+cmd/limactl/sudoers_darwin.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 11,17,19,29,60,103,106-116,118-120,123,132
+  s_a90d1204e0ed5e::t_5dca6a2c70b949 12,32,36-44,46,56,64-83,97,104-105,117,121-122,124-131,133-143
+  s_d30c4f036d148a::t_049c86c8204a52 28
+pkg/networks/sudoers.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 17-18,20,22,25-26,38,43,48,73-74,109-111
+  s_a90d1204e0ed5e::t_135473ea39302f 89,105,112
+pkg/sudoers/sudoers_test.go
+  s_a90d1204e0ed5e::t_8f04ff61a44e5f 36-37,42-52,64
+  s_d30c4f036d148a::t_aaa0cbc346fac4 1-35,38-41
+  s_a90d1204e0ed5e::t_3f31c980cc9989 53-55,61-63
+pkg/driver/wsl2/wsl_driver_windows.go
+  s_d30c4f036d148a::t_410333ab0b145a 108
+  s_d30c4f036d148a::t_aaa0cbc346fac4 28,106-107
+pkg/sudoers/sudoers.go
+  s_a90d1204e0ed5e::t_048257a78a3b7e 78-94
+  s_d30c4f036d148a::t_aaa0cbc346fac4 1-77
+pkg/driver/vz/network_darwin_test.go
+  s_a90d1204e0ed5e::t_e174be7e705870 15,40-42,108-141
+cmd/lima-privileged-block-device/main_darwin.go
+  s_d30c4f036d148a::t_61e73f7889074d 29
+  s_d30c4f036d148a::t_7fc397fc856217 9-28
+  s_d30c4f036d148a::t_a9f1dde231f5af 6-8
+  s_d30c4f036d148a::t_ef6c4f834bf90b 3-5
+pkg/driver/vz/block_device_darwin_test.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 1-8,10-29
+  s_a90d1204e0ed5e::t_2edf8f9292a9b6 9,30-64
+cmd/limactl/sudoers_darwin_test.go
+  s_d30c4f036d148a::t_7fc397fc856217 28,43
+  s_a90d1204e0ed5e::t_80d8f7251b9a52 1-27,29-42,44-71
+pkg/limatype/lima_yaml.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 30
+hack/bats/extras/vz-block-device.bats
+  s_d30c4f036d148a::t_aaa0cbc346fac4 1-65,79-80,82-250,252-311
+  s_a90d1204e0ed5e::t_874f12ac37364f 66-74,251
+  s_d30c4f036d148a::t_fe5ec96746286c 81
+cmd/limactl/editflags/editflags_test.go
+  s_d30c4f036d148a::t_936726230dcf27 310
+  s_a90d1204e0ed5e::t_7e796ed57faf07 14,99-120,314
+  s_d30c4f036d148a::t_aaa0cbc346fac4 311-313,315
+website/content/en/docs/config/disk.md
+  s_d30c4f036d148a::t_f06d797668647b 154
+  s_d30c4f036d148a::t_c6f471ca5b15fd 97-108,115-117
+  s_d30c4f036d148a::t_aaa0cbc346fac4 89-91,93-96,125-153,155-156
+  s_d30c4f036d148a::t_34015a95d270bb 109-114
+  s_a90d1204e0ed5e::t_f1765aed4dcf69 92
+  s_d30c4f036d148a::t_3e75580cb6a985 118-120,122-124
+pkg/limayaml/marshal_test.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 124-135
+pkg/limayaml/defaults.go
+  s_a90d1204e0ed5e::t_e51784c4e97815 312
+cmd/limactl/sudoers.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 30
+  s_a90d1204e0ed5e::t_bff3bc3a1b6fe8 31-32,43-44
+pkg/limayaml/validate.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 66,500-517
+  s_d30c4f036d148a::t_a00961ff960dc0 518-519
+pkg/networks/reconcile/reconcile.go
+  s_d30c4f036d148a::t_aaa0cbc346fac4 26,84,140
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "161cbf5721d9e704a930a6b1b9e1a4505c2b7cb1",
+  "prompts": {},
+  "sessions": {
+    "s_a90d1204e0ed5e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a07fb4-134a-7340-b7d7-ca6b3b9ea8df",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Nick Sweeting <git@sweeting.me>"
+    },
+    "s_d30c4f036d148a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e1346-1816-74a0-af59-6c3ba13f9f30",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Nick Sweeting <git@sweeting.me>"
+    }
+  }
+}
